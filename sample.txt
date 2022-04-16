@@ -1,0 +1,4 @@
+content written from main branch of developer 1
+some more content written from main branch of developer 1 after adding the file to the staging area.
+
+content written from feature branch d1 of developer 1
