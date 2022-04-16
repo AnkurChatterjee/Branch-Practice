@@ -24,3 +24,5 @@ As expected, there was a conflict. dev1 had to resolve the conflict.
 
 Now dev1 adds some content from feature branch without being aware of the
 changes already done by d2.
+
+Dev1 resolves conflict and adds some more content. Now he will push the changes to remote repository.
