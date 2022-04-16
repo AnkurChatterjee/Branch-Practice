@@ -9,3 +9,5 @@ New content written from main branch of developer 1 after commiting the changes 
 some more content written from feature branch of dev1....
 
 As expected,  there was a conflict while merging the local main with the local feature branch d1. We resolved the conflict. Now we will push the changes to the remote repository in GitHub.
+
+Now dev2 pulled the file and added some more changes from his main branch.
