@@ -2,3 +2,5 @@ content written from main branch of developer 1
 some more content written from main branch of developer 1 after adding the file to the staging area.
 
 content written from feature branch d1 of developer 1
+
+New content written from main branch of developer 1 after commiting the changes of feature branch d1. Now we will try to merge the two branches.
