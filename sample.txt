@@ -27,3 +27,4 @@ Dev2 makes some changes to the file from feature branch d2.
 Now dev1 adds some content from feature branch without being aware of the
 changes already done by d2.
 
+Dev2 adds some changes from feature branch...
