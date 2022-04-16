@@ -8,4 +8,10 @@ New content written from main branch of developer 1 after commiting the changes 
 
 some more content written from feature branch of dev1....
 
-As expected,  there was a conflict while merging the local main with the local feature branch d1. We resolved the conflict. Now we will push the changes to the remote repository in GitHub.
+As expected,  there was a conflict while merging the local main 
+with the local feature branch d1. We resolved the conflict.
+Now we will push the changes to the remote repository in GitHub.
+
+Meanwhile, dev1 unaware of the changes done by dev2, does some more changes
+in the file from his main branch. He will now try to push his changes
+to the remote repository.
