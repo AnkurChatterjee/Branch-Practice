@@ -3,4 +3,9 @@ some more content written from main branch of developer 1 after adding the file 
 
 content written from feature branch d1 of developer 1
 
+
 New content written from main branch of developer 1 after commiting the changes of feature branch d1. Now we will try to merge the two branches.
+
+some more content written from feature branch of dev1....
+
+As expected,  there was a conflict while merging the local main with the local feature branch d1. We resolved the conflict. Now we will push the changes to the remote repository in GitHub.
